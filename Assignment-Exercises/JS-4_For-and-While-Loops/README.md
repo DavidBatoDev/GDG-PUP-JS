@@ -13,6 +13,10 @@ Loops are essential for automating tasks and are a cornerstone of programming lo
 
 ## Provided Files
 
+### `index.html`
+
+this file is used to open the console for the desired output
+
 ### `scripts.js`
 
 This file contains a reference solution for the tasks. It is provided to help you if you encounter difficulties in completing the assignment. However, attempt the tasks independently before referring to it.

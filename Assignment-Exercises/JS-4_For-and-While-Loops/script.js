@@ -1,6 +1,6 @@
 // scripts.js
 
-// Using a for loop to print numbers 1 to 10
+// Example Using a for loop to print numbers 1 to 10
 for (let i = 1; i <= 10; i++) {
   console.log(`Number: ${i}`);
 }
@@ -9,18 +9,12 @@ for (let i = 1; i <= 10; i++) {
 let hobbies = [
   "Reading", // Example hobby
   "Writing", // Example hobby
-  "Cycling", // Example hobby
-  "Hiking", // Example hobby
-  "Cooking", // Example hobby
-  "Drawing", // Example hobby
-  "Gaming", // Example hobby
-  "Gardening", // Example hobby
-  "Photography", // Example hobby
-  "Traveling", // Example hobby
+  // Add more hobbies
 ];
 
 let index = 0;
 while (index < hobbies.length) {
-  console.log(`Hobby ${index + 1}: ${hobbies[index]}`);
+  // Log each hobby and see if it works in the console
+
   index++;
 }

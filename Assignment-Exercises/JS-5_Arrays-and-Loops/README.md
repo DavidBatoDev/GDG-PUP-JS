@@ -11,6 +11,9 @@ Learn how to use arrays and loops by creating a program that logs a list of your
 1. **JavaScript** (`script.js`)  
    A starter file with comments to guide you through the challenge.
 
+2. **HTML** (`index.html`)
+   A file to open the console for the desired output
+
 Your task is to complete the **JavaScript** file!
 
 ---
