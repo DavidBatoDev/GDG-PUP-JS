@@ -82,41 +82,5 @@ In GitHub Desktop, click Clone to download the repository to your local machine.
 ## Submission
 - For submission, an assignment in Google Classroom will be provided where you can upload the necessary requirements for this workshop. Please check Google Classroom for further details and deadlines for each assignment.
 
-## Examples for Introduction to Variables and Types
-```javascript
-// Using let
-let name = "Juan Cruz"; // string
-let age = 30; // number
-let isStudent = true; // boolean
-let hobbies = ["reading", "gaming", "coding"]; // array
-
-console.log(name); // Output: Juan Cruz
-console.log(age); // Output: 30
-console.log(isStudent); // Output: true
-console.log(hobbies); // Output: ["reading", "gaming", "coding"]
-
-// Using const
-const pi = 3.14159; // number
-const birthYear = 1990; // number
-const isEmployed = false; // boolean
-const favoriteBooks = ["1984", "Brave New World", "Fahrenheit 451"]; // array
-
-console.log(pi); // Output: 3.14159
-console.log(birthYear); // Output: 1990
-console.log(isEmployed); // Output: false
-console.log(favoriteBooks); // Output: ["1984", "Brave New World", "Fahrenheit 451"]
-
-// Using var
-var city = "New York"; // string
-var temperature = 22.5; // number
-var hasPets = true; // boolean
-var colors = ["red", "green", "blue"]; // array
-
-console.log(city); // Output: New York
-console.log(temperature); // Output: 22.5
-console.log(hasPets); // Output: true
-console.log(colors); // Output: ["red", "green", "blue"]
-```
-
 ## 🎉 Happy Coding! 
 We’re excited to see your creativity and dedication shine through this project. Let’s make this an amazing learning experience together. Remember, every line of code you write brings you one step closer to mastering wev development. Good luck, and enjoy the journey! 🚀💻
